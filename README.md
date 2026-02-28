@@ -55,7 +55,7 @@ The optimized model achieved:
 - **Accuracy: 95%**
 - **F1-Score**
 - **Confusion Matrix**
-- Precision and Recall analysis  
+- **Precision and Recall analysis**  
 
 ---
 
