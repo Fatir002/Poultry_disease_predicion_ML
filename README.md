@@ -1,71 +1,82 @@
-🐔 Poultry Disease Prediction ML
-📌 Project Description
+# 🐔 Poultry Disease Prediction ML
 
-Machine Learning project for Poultry Disease Prediction.
-The project includes data preprocessing, feature engineering, exploratory data analysis, heatmap visualization, pipeline modeling, model evaluation, hyperparameter tuning using GridSearchCV, and a deployment-ready pipeline.
+## 📌 Project Overview
 
-🧠 Key Features
+This project focuses on building a Machine Learning model to predict poultry diseases based on input features.  
+The goal is to enable early disease detection and support better decision-making in poultry farms.
 
-Data preprocessing and cleaning
+---
 
-Feature engineering
+## 🧠 Project Description
 
-Exploratory Data Analysis (EDA)
+This project includes:
 
-Heatmap visualization
+- **Data preprocessing and cleaning**
+- **Feature engineering**
+- **Exploratory Data Analysis (EDA)**
+- **Heatmap visualization**
+- **Pipeline modeling**
+- **Model evaluation**
+- **Hyperparameter tuning using GridSearchCV**
+- **Deployment-ready trained pipeline**
 
-Machine Learning pipeline implementation
+The model is trained on labeled data and evaluated using standard classification metrics.
 
-Model evaluation using:
+---
 
-Accuracy: 95%
+## 🛠 Technologies Used
 
-F1-Score
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Scikit-learn**
+- **Matplotlib**
+- **Seaborn**
+- **Jupyter Notebook**
 
-Confusion Matrix
+---
 
-Hyperparameter tuning with GridSearchCV
+## ⚙️ Machine Learning Workflow
 
-Deployment-ready trained pipeline
+1. Data loading and preprocessing  
+2. Feature selection and transformation  
+3. Train-test split  
+4. Pipeline-based model training  
+5. Hyperparameter tuning with GridSearchCV  
+6. Model evaluation  
+7. Final disease prediction  
 
-🛠 Technologies Used
+---
 
-Python
+## 📊 Model Performance
 
-Pandas
+The optimized model achieved:
 
-NumPy
+- **Accuracy: 95%**
+- **F1-Score**
+- **Confusion Matrix**
+- Precision and Recall analysis  
 
-Scikit-learn
+---
 
-Matplotlib
+## 📂 Project Structure
 
-Seaborn
+- `Project_2.ipynb` – Complete implementation including preprocessing, training, evaluation, and prediction.
 
-Jupyter Notebook
+---
 
-📊 Model Performance
+## 🚀 Future Improvements
 
-The final optimized model achieved:
+- Increase dataset size for better generalization  
+- Compare additional machine learning algorithms  
+- Perform advanced feature engineering  
+- Deploy as a web-based application  
+- Integrate real-time farm data  
 
-Accuracy: 95%
+---
 
-Strong F1-score performance
+## 👨‍💻 Author
 
-Reliable classification based on confusion matrix analysis
-
-🚀 Future Improvements
-
-Increase dataset size for better generalization
-
-Compare additional ML algorithms
-
-Deploy as a web application (Flask / FastAPI)
-
-Integrate real-time poultry farm data
-
-👨‍💻 Author
-
-Fatir Faraz
-BS Software Engineering
+**Fatir Faraz**  
+BS Software Engineering  
 Interest: Artificial Intelligence & Machine Learning
